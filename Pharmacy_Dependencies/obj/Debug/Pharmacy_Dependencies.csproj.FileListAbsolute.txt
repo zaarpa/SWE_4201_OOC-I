@@ -1,0 +1,6 @@
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\bin\Debug\Pharmacy_Dependencies.dll
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\bin\Debug\Pharmacy_Dependencies.pdb
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.csproj.AssemblyReference.cache
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.csproj.CoreCompileInputs.cache
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.dll
+H:\IUT\2nd Semester\OOC LAB\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.pdb
