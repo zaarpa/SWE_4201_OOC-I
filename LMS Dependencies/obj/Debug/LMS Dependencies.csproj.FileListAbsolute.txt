@@ -1,0 +1,12 @@
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\bin\Debug\LMS Dependencies.dll
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\bin\Debug\LMS Dependencies.pdb
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.csproj.AssemblyReference.cache
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.csproj.CoreCompileInputs.cache
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.dll
+H:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.pdb
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\bin\Debug\LMS Dependencies.dll
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\bin\Debug\LMS Dependencies.pdb
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.csproj.AssemblyReference.cache
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.csproj.CoreCompileInputs.cache
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.dll
+I:\IUT\2nd Semester\OOC LAB\LMS Dependencies\obj\Debug\LMS Dependencies.pdb
