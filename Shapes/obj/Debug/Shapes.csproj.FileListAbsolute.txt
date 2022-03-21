@@ -1,0 +1,8 @@
+D:\Academics\OOC Lab\Shapes\bin\Debug\Shapes.exe.config
+D:\Academics\OOC Lab\Shapes\bin\Debug\Shapes.exe
+D:\Academics\OOC Lab\Shapes\bin\Debug\Shapes.pdb
+D:\Academics\OOC Lab\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+D:\Academics\OOC Lab\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+D:\Academics\OOC Lab\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\Academics\OOC Lab\Shapes\obj\Debug\Shapes.exe
+D:\Academics\OOC Lab\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,11 @@
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.csproj.AssemblyReference.cache
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.csproj.SuggestedBindingRedirects.cache
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.Form1.resources
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.Properties.Resources.resources
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.csproj.GenerateResource.cache
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.csproj.CoreCompileInputs.cache
+D:\Academics\OOC Lab\EMPLOYEE\bin\Debug\EMPLOYEE.exe.config
+D:\Academics\OOC Lab\EMPLOYEE\bin\Debug\EMPLOYEE.exe
+D:\Academics\OOC Lab\EMPLOYEE\bin\Debug\EMPLOYEE.pdb
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.exe
+D:\Academics\OOC Lab\EMPLOYEE\obj\Debug\EMPLOYEE.pdb
