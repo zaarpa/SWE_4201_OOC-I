@@ -1,0 +1,11 @@
+D:\Academics\OOC Lab\ResultProcessingSystem\bin\Debug\ResultProcessingSystem.exe.config
+D:\Academics\OOC Lab\ResultProcessingSystem\bin\Debug\ResultProcessingSystem.exe
+D:\Academics\OOC Lab\ResultProcessingSystem\bin\Debug\ResultProcessingSystem.pdb
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.csproj.AssemblyReference.cache
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.Form1.resources
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.Properties.Resources.resources
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.csproj.GenerateResource.cache
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.csproj.CoreCompileInputs.cache
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.exe
+D:\Academics\OOC Lab\ResultProcessingSystem\obj\Debug\ResultProcessingSystem.pdb
